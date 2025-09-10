@@ -1,0 +1,81 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lab_services_student\\source\\repos\\MunicipalServicesApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{042761AD-B0B2-41E1-B5BC-3994B34F70D1}|MunicipalServicesApp\\MunicipalServicesApp.csproj|c:\\users\\lab_services_student\\source\\repos\\municipalservicesapp\\municipalservicesapp\\controllers\\reportissuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{042761AD-B0B2-41E1-B5BC-3994B34F70D1}|MunicipalServicesApp\\MunicipalServicesApp.csproj|solutionrelative:municipalservicesapp\\controllers\\reportissuescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{042761AD-B0B2-41E1-B5BC-3994B34F70D1}|MunicipalServicesApp\\MunicipalServicesApp.csproj|c:\\users\\lab_services_student\\source\\repos\\municipalservicesapp\\municipalservicesapp\\views\\reportissues\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{042761AD-B0B2-41E1-B5BC-3994B34F70D1}|MunicipalServicesApp\\MunicipalServicesApp.csproj|solutionrelative:municipalservicesapp\\views\\reportissues\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{042761AD-B0B2-41E1-B5BC-3994B34F70D1}|MunicipalServicesApp\\MunicipalServicesApp.csproj|c:\\users\\lab_services_student\\source\\repos\\municipalservicesapp\\municipalservicesapp\\views\\reportissues\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{042761AD-B0B2-41E1-B5BC-3994B34F70D1}|MunicipalServicesApp\\MunicipalServicesApp.csproj|solutionrelative:municipalservicesapp\\views\\reportissues\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\MunicipalServicesApp\\MunicipalServicesApp\\Views\\ReportIssues\\Create.cshtml",
+              "RelativeDocumentMoniker": "MunicipalServicesApp\\Views\\ReportIssues\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\MunicipalServicesApp\\MunicipalServicesApp\\Views\\ReportIssues\\Create.cshtml",
+              "RelativeToolTip": "MunicipalServicesApp\\Views\\ReportIssues\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-08T08:42:54.109Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ReportIssuesController.cs",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\MunicipalServicesApp\\MunicipalServicesApp\\Controllers\\ReportIssuesController.cs",
+              "RelativeDocumentMoniker": "MunicipalServicesApp\\Controllers\\ReportIssuesController.cs",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\MunicipalServicesApp\\MunicipalServicesApp\\Controllers\\ReportIssuesController.cs",
+              "RelativeToolTip": "MunicipalServicesApp\\Controllers\\ReportIssuesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-08T08:49:22.935Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "C:\\Users\\lab_services_student\\source\\repos\\MunicipalServicesApp\\MunicipalServicesApp\\Views\\ReportIssues\\List.cshtml",
+              "RelativeDocumentMoniker": "MunicipalServicesApp\\Views\\ReportIssues\\List.cshtml",
+              "ToolTip": "C:\\Users\\lab_services_student\\source\\repos\\MunicipalServicesApp\\MunicipalServicesApp\\Views\\ReportIssues\\List.cshtml",
+              "RelativeToolTip": "MunicipalServicesApp\\Views\\ReportIssues\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-09-10T11:25:32.761Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
