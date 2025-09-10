@@ -60,9 +60,11 @@ The application emphasizes **dignity, respect, and efficiency**—ensuring that 
 5. **Optional: Add attachments folder**
 - Create a folder wwwroot/Uploads to store uploaded files.
 
+---
+
 ## Folder Structure
-``MunicipalServicesApp/
-│
+
+MunicipalServicesApp/
 ├─ Controllers/
 │   └─ ReportIssuesController.cs
 ├─ Models/
@@ -81,7 +83,8 @@ The application emphasizes **dignity, respect, and efficiency**—ensuring that 
 │   └─ Uploads/
 ├─ Program.cs
 └─ README.md
-``
+
+---
 
 ## Author
 - **Asanda Dimba**
